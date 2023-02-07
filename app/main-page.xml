@@ -1,0 +1,17 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+    <ActionBar title="Test 1" icon="" />
+    <StackLayout class="p-4">
+        <Label text="Academics Report" class="text-3xl text-center" />
+       
+    </StackLayout>
+
+
+      <Label text="Dean's List (>=3.50)" row="0" col="0"  />
+
+      <Label text="0, 1" row="0" col="1" style = "background-color: pink" />
+      <Label text="0, 2" row="0" col="2" style="background-color:#ed5698" />
+      <Label text="1, 0" row="1" col="0" style="background-color:#34bcad" />
+      <Label text="1,1 " row="1" col="1" colSpan="2" 
+   
+    </GridLayout>
+</Page>

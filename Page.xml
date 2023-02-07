@@ -1,0 +1,11 @@
+<Page>\
+  <StackLayout>
+    <Label text = "Academics Report"/>
+
+    <Label text = "Department: Computer Science ">
+
+      <Label text = "Deans List (>=3.50): " row = 0, column = 0>
+        <Label text = "Computer Science: 3" row=0, column=1>
+
+    <StackLayout>
+      <Page>
